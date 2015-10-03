@@ -15,7 +15,7 @@ cp -f Autumn_Wood.jpg ${LOCALBASE}/share/backgrounds/ghostbsd/Autumn_Wood.jpg
 cp -f Fire_Sunset.jpg ${LOCALBASE}/share/backgrounds/ghostbsd/Fire_Sunset.jpg
 cp -f Frosted_Leaf.jpg ${LOCALBASE}/share/backgrounds/ghostbsd/Frosted_Leaf.jpg
 cp -f Grjotagja_Cave.jpg ${LOCALBASE}/share/backgrounds/ghostbsd/Grjotagja_Cave.jpg
-cp -f Magnificent_Lanscape.jpg ${LOCALBASE}/ share/backgrounds/ghostbsd/Magnificent_Lanscape.jpg
+cp -f Magnificent_Lanscape.jpg ${LOCALBASE}/share/backgrounds/ghostbsd/Magnificent_Lanscape.jpg
 cp -f Night_swimming.jpg ${LOCALBASE}/share/backgrounds/ghostbsd/Night_swimming.jpg
 cp -f Scenery_over_sea_with_the_setting_sun.jpg ${LOCALBASE}/share/backgrounds/ghostbsd/Scenery_over_sea_with_the_setting_sun.jpg
 cp -f Street_Lights_Twilight_Sky.jpg ${LOCALBASE}/share/backgrounds/ghostbsd/Street_Lights_Twilight_Sky.jpg
