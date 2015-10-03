@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
+	
+<wallpapers>
+    <wallpaper deleted="false">
+        <name>Autumn Wood</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Autumn_Wood.jpg</filename>
+        <options>stretched</options>
+    </wallpaper>
+    <wallpaper deleted="false">
+    <name>Fire Sunset</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Fire_Sunset.jpg</filename>
+        <options>stretched</options>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Frosted Leaf</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Frosted_Leaf.jpg</filename>
+        <options>stretched</options>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Grjotagja Cave</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Grjotagja_Cave.jpg</filename>
+        <options>stretched</options>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Magnificent Lanscape</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Magnificent_Lanscape.jpg</filename>
+        <options>stretched</options>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Night Swimming</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Night_swimming.jpg</filename>
+        <options>stretched</options>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Scenery Over Sea With The Sun</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Scenery_over_sea_with_the_setting_sun.jpg</filename>
+        <options>stretched</options>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Street Lights Twilight Sky</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Street_Lights_Twilight_Sky.jpg</filename>
+        <options>stretched</options>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Sunrise at Lake Tahoe</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Sunrise_at_Lake_Tahoe.jpg</filename>
+        <options>stretched</options>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Sunset Reflection Ocean</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Sunset_Reflection_Ocean.jpg</filename>
+        <options>stretched</options>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Super Sunset in Princes Pier</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Super_sunset_in_Princes_Pier.jpg</filename>
+        <options>stretched</options>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Yellowstone Under Canvas</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Yellowstone_Under_Canvas.jpg</filename>
+        <options>stretched</options>
+    </wallpaper>
+</wallpapers>
