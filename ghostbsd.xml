@@ -3,63 +3,73 @@
 	
 <wallpapers>
     <wallpaper deleted="false">
-        <name>Autumn Wood</name>
-        <filename>/usr/local/share/backgrounds/ghostbsd/Autumn_Wood.jpg</filename>
+        <name>Drops on Grass</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Drops_on_Grass.jpg</filename>
         <options>stretched</options>
     </wallpaper>
     <wallpaper deleted="false">
-    <name>Fire Sunset</name>
-        <filename>/usr/local/share/backgrounds/ghostbsd/Fire_Sunset.jpg</filename>
+    <name>Lake Tahoe </name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Lake_Tahoe.jpg</filename>
         <options>stretched</options>
     </wallpaper>
     <wallpaper deleted="false">
-        <name>Frosted Leaf</name>
-        <filename>/usr/local/share/backgrounds/ghostbsd/Frosted_Leaf.jpg</filename>
+        <name>Lightning Rainbow</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Lightning_Rainbow_and_Landscape.jpg</filename>
         <options>stretched</options>
     </wallpaper>
     <wallpaper deleted="false">
-        <name>Grjotagja Cave</name>
-        <filename>/usr/local/share/backgrounds/ghostbsd/Grjotagja_Cave.jpg</filename>
+        <name>Manhattan Skyscrapers</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Manhattan_Skyscrapers.jpg</filename>
         <options>stretched</options>
     </wallpaper>
     <wallpaper deleted="false">
-        <name>Magnificent Lanscape</name>
-        <filename>/usr/local/share/backgrounds/ghostbsd/Magnificent_Lanscape.jpg</filename>
+        <name>Moraine Lake</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Moraine_Lake.jpg</filename>
         <options>stretched</options>
     </wallpaper>
     <wallpaper deleted="false">
-        <name>Night Swimming</name>
-        <filename>/usr/local/share/backgrounds/ghostbsd/Night_swimming.jpg</filename>
+        <name>Nature Landscape</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Nature_landscape.jpg</filename>
         <options>stretched</options>
     </wallpaper>
     <wallpaper deleted="false">
-        <name>Scenery Over Sea With The Sun</name>
-        <filename>/usr/local/share/backgrounds/ghostbsd/Scenery_over_sea_with_the_setting_sun.jpg</filename>
+        <name>Pulpit Rock</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Pulpit-Rock.jpg</filename>
         <options>stretched</options>
     </wallpaper>
     <wallpaper deleted="false">
-        <name>Street Lights Twilight Sky</name>
-        <filename>/usr/local/share/backgrounds/ghostbsd/Street_Lights_Twilight_Sky.jpg</filename>
+        <name>Seascape Rocks Sunset</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Seascape_Rocks_Sunset.jpg</filename>
         <options>stretched</options>
     </wallpaper>
     <wallpaper deleted="false">
-        <name>Sunrise at Lake Tahoe</name>
-        <filename>/usr/local/share/backgrounds/ghostbsd/Sunrise_at_Lake_Tahoe.jpg</filename>
+        <name>Seljalandsfoss Waterfall</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Seljalandsfoss_Waterfall.jpg</filename>
         <options>stretched</options>
     </wallpaper>
     <wallpaper deleted="false">
-        <name>Sunset Reflection Ocean</name>
-        <filename>/usr/local/share/backgrounds/ghostbsd/Sunset_Reflection_Ocean.jpg</filename>
+        <name>Toroweap Sunrise</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Toroweap_Sunrise.jpg</filename>
         <options>stretched</options>
     </wallpaper>
     <wallpaper deleted="false">
-        <name>Super Sunset in Princes Pier</name>
-        <filename>/usr/local/share/backgrounds/ghostbsd/Super_sunset_in_Princes_Pier.jpg</filename>
+        <name>Water Drops on Plants</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Water_Drops_on_Plants.jpg</filename>
         <options>stretched</options>
     </wallpaper>
     <wallpaper deleted="false">
-        <name>Yellowstone Under Canvas</name>
-        <filename>/usr/local/share/backgrounds/ghostbsd/Yellowstone_Under_Canvas.jpg</filename>
+        <name>White Tree's Empire</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/White-Tree's-Empire.jpg</filename>
+        <options>stretched</options>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Landscape mountains nature clouds</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/landscape-mountains-nature-clouds.jpg</filename>
+        <options>stretched</options>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Landscape nature clouds cloudy</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/landscape-nature-clouds-cloudy.jpg</filename>
         <options>stretched</options>
     </wallpaper>
 </wallpapers>
