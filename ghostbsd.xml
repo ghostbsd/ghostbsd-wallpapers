@@ -72,4 +72,19 @@
         <filename>/usr/local/share/backgrounds/ghostbsd/landscape-nature-clouds-cloudy.jpg</filename>
         <options>stretched</options>
     </wallpaper>
+    <wallpaper deleted="false">
+        <name>Dark Paisley</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Dark_Paisley.png</filename>
+        <options>stretched</options>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Russian Field</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Russian_Field.png</filename>
+        <options>stretched</options>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Purple Honeycomb</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Purple_Honeycomb.png</filename>
+        <options>stretched</options>
+    </wallpaper>
 </wallpapers>
