@@ -1,75 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
-	
+
 <wallpapers>
     <wallpaper deleted="false">
-        <name>Drops on Grass</name>
-        <filename>/usr/local/share/backgrounds/ghostbsd/Drops_on_Grass.jpg</filename>
+        <name>Big City</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Big_City.jpg</filename>
         <options>stretched</options>
     </wallpaper>
     <wallpaper deleted="false">
-    <name>Lake Tahoe </name>
-        <filename>/usr/local/share/backgrounds/ghostbsd/Lake_Tahoe.jpg</filename>
+    <name>Brigth Beach</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Brigth_Beach.jpg</filename>
         <options>stretched</options>
     </wallpaper>
     <wallpaper deleted="false">
-        <name>Lightning Rainbow</name>
-        <filename>/usr/local/share/backgrounds/ghostbsd/Lightning_Rainbow_and_Landscape.jpg</filename>
+        <name>Cool Field</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Cool_Field.jpg</filename>
         <options>stretched</options>
     </wallpaper>
     <wallpaper deleted="false">
-        <name>Manhattan Skyscrapers</name>
-        <filename>/usr/local/share/backgrounds/ghostbsd/Manhattan_Skyscrapers.jpg</filename>
+        <name>Cozy Beach</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Cozy_Beach.jpg</filename>
         <options>stretched</options>
     </wallpaper>
     <wallpaper deleted="false">
-        <name>Moraine Lake</name>
-        <filename>/usr/local/share/backgrounds/ghostbsd/Moraine_Lake.jpg</filename>
-        <options>stretched</options>
-    </wallpaper>
-    <wallpaper deleted="false">
-        <name>Nature Landscape</name>
-        <filename>/usr/local/share/backgrounds/ghostbsd/Nature_landscape.jpg</filename>
-        <options>stretched</options>
-    </wallpaper>
-    <wallpaper deleted="false">
-        <name>Pulpit Rock</name>
-        <filename>/usr/local/share/backgrounds/ghostbsd/Pulpit-Rock.jpg</filename>
-        <options>stretched</options>
-    </wallpaper>
-    <wallpaper deleted="false">
-        <name>Seascape Rocks Sunset</name>
-        <filename>/usr/local/share/backgrounds/ghostbsd/Seascape_Rocks_Sunset.jpg</filename>
-        <options>stretched</options>
-    </wallpaper>
-    <wallpaper deleted="false">
-        <name>Seljalandsfoss Waterfall</name>
-        <filename>/usr/local/share/backgrounds/ghostbsd/Seljalandsfoss_Waterfall.jpg</filename>
-        <options>stretched</options>
-    </wallpaper>
-    <wallpaper deleted="false">
-        <name>Toroweap Sunrise</name>
-        <filename>/usr/local/share/backgrounds/ghostbsd/Toroweap_Sunrise.jpg</filename>
-        <options>stretched</options>
-    </wallpaper>
-    <wallpaper deleted="false">
-        <name>Water Drops on Plants</name>
-        <filename>/usr/local/share/backgrounds/ghostbsd/Water_Drops_on_Plants.jpg</filename>
-        <options>stretched</options>
-    </wallpaper>
-    <wallpaper deleted="false">
-        <name>White Tree's Empire</name>
-        <filename>/usr/local/share/backgrounds/ghostbsd/White-Trees-Empire.jpg</filename>
-        <options>stretched</options>
-    </wallpaper>
-    <wallpaper deleted="false">
-        <name>Landscape mountains nature clouds</name>
-        <filename>/usr/local/share/backgrounds/ghostbsd/landscape-mountains-nature-clouds.jpg</filename>
-        <options>stretched</options>
-    </wallpaper>
-    <wallpaper deleted="false">
-        <name>Landscape nature clouds cloudy</name>
-        <filename>/usr/local/share/backgrounds/ghostbsd/landscape-nature-clouds-cloudy.jpg</filename>
+        <name>Dark Lake</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Dark_Lake.jpg</filename>
         <options>stretched</options>
     </wallpaper>
     <wallpaper deleted="false">
@@ -78,13 +33,43 @@
         <options>stretched</options>
     </wallpaper>
     <wallpaper deleted="false">
-        <name>Russian Field</name>
-        <filename>/usr/local/share/backgrounds/ghostbsd/Russian_Field.png</filename>
+        <name>Frosted Grass</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Frosted_Grass.jpg</filename>
+        <options>stretched</options>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Seascape Rocks Sunset</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Green_Grass.jpg</filename>
+        <options>stretched</options>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Greeny Wood</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Greeny_Wood.jpg</filename>
+        <options>stretched</options>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Nice Dawn</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Nice_Dawn.jpg</filename>
         <options>stretched</options>
     </wallpaper>
     <wallpaper deleted="false">
         <name>Purple Honeycomb</name>
         <filename>/usr/local/share/backgrounds/ghostbsd/Purple_Honeycomb.png</filename>
+        <options>stretched</options>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Road</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Road.png</filename>
+        <options>stretched</options>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Russian Field</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Russian_Field.png</filename>
+        <options>stretched</options>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Valle</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Valle.jpg</filename>
         <options>stretched</options>
     </wallpaper>
 </wallpapers>
