@@ -37,6 +37,7 @@
         <filename>/usr/local/share/backgrounds/ghostbsd/Frosted_Grass.jpg</filename>
         <options>stretched</options>
     </wallpaper>
+
     <wallpaper deleted="false">
         <name>Seascape Rocks Sunset</name>
         <filename>/usr/local/share/backgrounds/ghostbsd/Green_Grass.jpg</filename>
@@ -70,6 +71,11 @@
     <wallpaper deleted="false">
         <name>Valle</name>
         <filename>/usr/local/share/backgrounds/ghostbsd/Valle.jpg</filename>
+        <options>stretched</options>
+    </wallpaper>    
+    <wallpaper deleted="false">
+        <name>Tidepool Sunset</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/Tidepool_Sunset.png</filename>
         <options>stretched</options>
     </wallpaper>
 </wallpapers>
