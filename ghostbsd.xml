@@ -1,6 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
-
 <wallpapers>
     <wallpaper deleted="false">
         <name>Big City</name>
@@ -76,6 +73,56 @@
     <wallpaper deleted="false">
         <name>Tidepool Sunset</name>
         <filename>/usr/local/share/backgrounds/ghostbsd/Tidepool_Sunset.png</filename>
+        <options>stretched</options>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Forest Fog</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/forest_fog.jpg</filename>
+        <options>stretched</options>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>NY Nights</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/new_york_nights.jpg</filename>
+        <options>stretched</options>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Night Castle</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/night-castle.jpg</filename>
+        <options>stretched</options>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Leafs Green</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/leafs_green.jpg</filename>
+        <options>stretched</options>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Rocks</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/rocks-8k.jpg</filename>
+        <options>stretched</options>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Sea Pier</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/sea_pier.jpg</filename>
+        <options>stretched</options>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Sunset</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/sunset.jpg</filename>
+        <options>stretched</options>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Water</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/water-8k.jpg</filename>
+        <options>stretched</options>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Winter Landscape</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/winter-landscape.jpg</filename>
+        <options>stretched</options>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Wood Ultrawide</name>
+        <filename>/usr/local/share/backgrounds/ghostbsd/wood-ultrawide.jpg</filename>
         <options>stretched</options>
     </wallpaper>
 </wallpapers>
